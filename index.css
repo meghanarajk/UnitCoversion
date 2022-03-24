@@ -1,0 +1,44 @@
+html{
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin-top: 10px;
+    color:white;
+    font-size: 15px;  
+    text-align:center
+}
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+    color:white ;
+    text-align:center
+}
+
+body {
+    background-image: linear-gradient(
+  315deg,
+  hsl(240deg 85% 29%) 0%,
+  hsl(269deg 87% 33%) 21%,
+  hsl(298deg 90% 36%) 58%,
+  hsl(328deg 92% 40%) 97%,
+  hsl(357deg 95% 43%) 100%,
+  hsl(26deg 97% 47%) 101%,
+  hsl(55deg 100% 50%) 100%
+);
+
+background-repeat: no-repeat;
+background-position: center top;
+background-size: 1000px 130px ;
+}
+
+.text-center {
+  margin: 0;
+  position: absolute;
+  top: 40%;
+  
+  
+}
+
+
